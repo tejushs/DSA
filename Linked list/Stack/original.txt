@@ -1,4 +1,0 @@
-Line 1: This is the first line.
-Line 2: Followed by the second.
-Line 3: And then the third.
-Line 4: Finally, the last line.
